@@ -33,7 +33,7 @@ You can access the task classifier demo here: (https://lam-task-classifier-demo.
 ---
 
 ## 3. Data Generation
-We generated over 22,000 tasks using both local and API-based LLMs, implementing auto-balancing for data distribution:
+We generated over +22,000 tasks using both local and API-based LLMs, implementing auto-balancing for data distribution:
 
 ### Local LLM Data Generation:
 - LLaMA-3.1-8B-Instruct
